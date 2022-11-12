@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.name {
+  text-align: center;
+}
+
+.search {
+  margin: 50px auto;
+  text-align: center;
+}
+
+input {
+  border: 3px solid black;
+  height: 20px;
+  width: 200px;
+}
+
+
+.receipt {
+  border: 1px solid coral;
+  padding: 1em;
+  margin: 1em;
+  flex-basis: 30%;
+}
+
+span {
+  color: indigo;
+}

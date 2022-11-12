@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 25px;
+  color: white;
+  background-color: black;
+}
+
+button {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+  font-size: 25px;
+}
